@@ -1,0 +1,2 @@
+# social-in-our-distance
+Social In Our Distance is an interactive animation that explores loneliness and isolation through cursor data. The website has text values that are parsed into images of people, families, and pets (through a wingdings font I've created) that can never be "clicked" or interacted with. As your mouse tries to hover over the 'people', they literally stay away from your mouse keep a proper "social distance". 
